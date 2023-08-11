@@ -6,7 +6,7 @@ A simple website for the Gamestack iOS App.
 
 ## Install & run
 
-Make sure you have npm and yarn installed. Install dependencies with:
+Make sure you have npm and yarn installed. Install dependencies with
 
 ```bash
 yarn
